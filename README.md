@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ritzii01
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Penetration Testing 
-- 📫 How to reach me through this mail choudhary01ritika@gmail.com
+- 📫 How to reach me? Through this mail choudhary01ritika@gmail.com
 - ⚡ Fun fact: It was funny in my head:)
 
 <!---
